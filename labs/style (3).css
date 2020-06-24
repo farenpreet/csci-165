@@ -1,0 +1,20 @@
+h1{
+ background-colour:darkred;
+ text-decoration:underline;
+ text-align:centre;
+ }
+
+
+li{
+	color:red;
+ }
+
+
+#greensubtitle{
+	color:green;
+ }
+
+
+.bluesubtitle{
+	color:blue;
+ }
