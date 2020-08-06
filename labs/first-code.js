@@ -68,7 +68,3 @@ divide = function() {
 
 
     jQuery(document).ready(setup)
-
-	
-
-
